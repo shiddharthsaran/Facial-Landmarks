@@ -1,2 +1,2 @@
 # Facial-Landmarks
-Detecting facial landmarks of images in a folder or in realtime using webcam and saving seperate lanmarks in specific folders.
+Detecting facial landmarks of images in a folder or in real-time using webcam and saving separate landmarks in specific folders.
